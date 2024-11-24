@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mvino\\source\\repos\\ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\phonestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\phonestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\models\\allmodelsbd\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\models\\allmodelsbd\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|c:\\users\\mvino\\source\\repos\\asp\\phonestore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC1288CC-3EEC-4366-ADFE-B1766E40BE1F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PhoneStore\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PhoneStore\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T08:16:47.279Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PhoneStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PhoneStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T09:49:56.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneStore",
+              "DocumentMoniker": "C:\\Users\\mvino\\Source\\Repos\\ASP\\PhoneStore\\PhoneStore.csproj",
+              "RelativeDocumentMoniker": "PhoneStore\\PhoneStore.csproj",
+              "ToolTip": "C:\\Users\\mvino\\Source\\Repos\\ASP\\PhoneStore\\PhoneStore.csproj",
+              "RelativeToolTip": "PhoneStore\\PhoneStore.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T09:47:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Program.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Program.cs",
+              "RelativeToolTip": "PhoneStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:44:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Role.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\Role.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Role.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:57:01.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\User.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\User.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\User.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:57:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\Application.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\Application.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:37.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductSpec.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\ProductSpec.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\ProductSpec.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\ProductSpec.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\ProductSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:53:41.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\appsettings.json",
+              "RelativeToolTip": "PhoneStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T05:51:40.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Promotion.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\Promotion.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Promotion.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:56:37.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Cart.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\Cart.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Cart.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\Cart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:40:57.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Product.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\Product.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Product.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:50:18.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Category.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Models\\AllModelsBD\\Category.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Models\\AllModelsBD\\Category.cs",
+              "RelativeToolTip": "PhoneStore\\Models\\AllModelsBD\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:46:56.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PhoneStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:18:47.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "PhoneStore\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:57:36.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhoneStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:54:46.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhoneStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhoneStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T18:53:06.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PhoneStore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mvino\\source\\repos\\ASP\\PhoneStore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PhoneStore\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T18:53:33.874Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
